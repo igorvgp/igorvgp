@@ -2,12 +2,8 @@
 
 On this page I demonstrate my skills in solving business challenges through my knowledge and tools of Data Science.
 
-<p align='center'>
-    <img src='banner.png'<
-</p>
-
 # Ígor Pereira
-
+<sub>*Data Scientist/Analyst*</sub>
 <p align="justify">I am a Mechanical Engineering student, and I had my first experience with data working on the Technology team of a Public Health organization. During my experience there, I was tasked with executing Data Analysis projects that involved tracking and monitoring Dengue cases in the city, managing exams orders, and following up on cases of Covid-19. This experience allowed me to develop my understanding of the key data analysis tools and how to use them to generate insights that could encourage data-driven decision making.</p>
 
 <p align="justify">Additionally, I have had the opportunity to work in the Logistics department of an automobile industry, where my responsibilities included generating customer demand, inventory, and purchase order reports through data analysis. To this end, I developed efficient data extraction and transformation processes that made relevant logistic key performance indicators (KPIs) easily accessible through interactive dashboards. Moreover, during this experience, I spearheaded several data flow automation projects, which helped optimize work performance and streamline access to important information for the team.</p>
