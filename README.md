@@ -6,8 +6,7 @@ On this page I demonstrate my skills in solving business challenges through my k
     <img src='banner.png'<
 </p>
 
-# ígor Pereira
-<sub>*Data Scientist*</sub>
+# Ígor Pereira
 
 <p align="justify">I am a Mechanical Engineering student, and I had my first experience with data working on the Technology team of a Public Health organization. During my experience there, I was tasked with executing Data Analysis projects that involved tracking and monitoring Dengue cases in the city, managing exams orders, and following up on cases of Covid-19. This experience allowed me to develop my understanding of the key data analysis tools and how to use them to generate insights that could encourage data-driven decision making.</p>
 
