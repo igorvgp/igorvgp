@@ -1,6 +1,6 @@
 # Welcome to my Data Science Portfolio
 
-On this page I demonstrate my skills in solving business challenges through my knowledge and tools of Data Science.
+Through this page, I demonstrate my skills in solving business challenges through my knowledge and tools of Data Science.
 
 # Ígor Pereira
 <sub>Data Scientist/Analyst</sub>
@@ -59,6 +59,6 @@ By doing so, it was possible to identify a subset of high-value customers, who m
 
 ### [Rossmann Sales Preddiction](https://github.com/igorvgp/DS_rossmann_stores)
 
-<p align="justify">The European pharmacy chain Rossmann plans to allocate a portion of their budget towards renovating their stores. In order to calculate the amount that will be dedicated to this purpose, the company's CFO requested that the data team develop a sales revenue forecasting solution for the next 6 weeks.
+<p align="justify">The European pharmacy chain Rossmann plans to allocate a portion of their budget towards renovating their stores. In order to calculate the amount that will be dedicated to this purpose, the company's CFO requested that the data team develop a sales revenue forecasting solution for the next 6 weeks.</p>
     
-A regression model using Machine Learning was developed and was able to achieve a MAPE (mean absolute percentage error) of **14%**. This model predicts a sales value of **$283.7M** for the next 6 weeks.</p>
+<p align="justify">A regression model using Machine Learning was developed and was able to achieve a MAPE (mean absolute percentage error) of **14%**. This model predicts a sales value of **$283.7M** for the next 6 weeks.</p>
