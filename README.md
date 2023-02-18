@@ -46,7 +46,7 @@ Through this page, I demonstrate my skills in solving business challenges throug
 
 <p align="justify">An Insurance company that has provided Health Insurance to its customers need to predict whether the policyholders (customers) from past year will also be interested in Car Insurance provided by the company. With the information about customers, the company did a survey asking them if they were interested in car insurance. With the results of this survey and the characteristics of the customers, the company is able to maximize profit for this product through Machine Learning techniques.
 
-In this context, I developed a Learning to Rank Machine Learning model that is able to rank customers by their propensity to buy auto insurance, so salespeople can target customers who are most likely to buy it.
+<p align="justify">In this context, I developed a Learning to Rank Machine Learning model that is able to rank customers by their propensity to buy auto insurance, so salespeople can target customers who are most likely to buy it.</p>
 
 Compared to a random selection of customers to be contacted, the machine learning model developed proved to be about **3 times** more efficient, generating an extra gain of **35 million dollars**.</p>
 
