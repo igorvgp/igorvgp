@@ -1,4 +1,4 @@
-# Welcome to my Data Science portfolio
+# Welcome to my Data Science Portfolio
 
 On this page I demonstrate my skills in solving business challenges through my knowledge and tools of Data Science.
 
