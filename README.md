@@ -40,7 +40,7 @@ On this page I demonstrate my skills in solving business challenges through my k
 * [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igorviniciusgpereira@gmail.com)](mailto:igorviniciusgpereira@gmail.com)
 
 
-## Data Science Projects:
+# Data Science Projects:
 
 ### [Health Insurance Cross-Sell]( https://github.com/igorvgp/DS-health-insurance-cross-sell ) 
 
@@ -56,3 +56,9 @@ Compared to a random selection of customers to be contacted, the machine learnin
 
 For this problem, an unsupervised Machine Learning model was developed to cluster customers based on their similarities.
 By doing so, it was possible to identify a subset of high-value customers, who made up just **15.7%** of the total customer base, but contributed but contribute with **51.7%** of the total revenue.</p>
+
+### [Rossmann Sales Preddiction](https://github.com/igorvgp/DS_rossmann_stores)
+
+<p align="justify">The European pharmacy chain Rossmann plans to allocate a portion of their budget towards renovating their stores. In order to calculate the amount that will be dedicated to this purpose, the company's CFO requested that the data team develop a sales revenue forecasting solution for the next 6 weeks.
+    
+A regression model using Machine Learning was developed and was able to achieve a MAPE (mean absolute percentage error) of **14%**. This model predicts a sales value of **$283.7M** for the next 6 weeks.</p>
