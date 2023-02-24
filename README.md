@@ -54,8 +54,8 @@ Compared to a random selection of customers to be contacted, the machine learnin
 
 <p align="justify">An E-commerce company wants to implement a loyalty program for its most valuable customer group called "Insiders", so the marketing team can provide benefits to this group and encourage other customers to join it. To find out who are those customers, the company provided a dataset contains all the transactions occurring between Nov-2016 to Dec-2017 to investigate.
 
-For this problem, an unsupervised Machine Learning model was developed to cluster customers based on their similarities.
-By doing so, it was possible to identify a subset of high-value customers, who made up just **15.7%** of the total customer base, but contributed but contribute with **51.7%** of the total revenue.</p>
+<p style="text-align: justify;">For this problem, an unsupervised Machine Learning model was developed to cluster customers based on their similarities.
+By doing so, it was possible to identify a subset of high-value customers, who made up just <strong>15.7%</strong> of the total customer base, but contributed but contribute with **51.7%** of the total revenue.</p>
 
 ### [Rossmann Sales Preddiction](https://github.com/igorvgp/DS_rossmann_stores)
 
