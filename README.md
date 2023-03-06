@@ -42,7 +42,7 @@ Through this page, I demonstrate my skills in solving business challenges throug
 
 # Data Science Projects:
 
-### [Health Insurance Cross-Sell]( https://github.com/igorvgp/DS-health-insurance-cross-sell ) 
+### [Health Insurance Cross-Sell Campaign]( https://github.com/igorvgp/DS-health-insurance-cross-sell ) 
 
 <p align="justify">An Insurance company that has provided Health Insurance to its customers need to predict whether the policyholders (customers) from past year will also be interested in Car Insurance provided by the company. With the information about customers, the company did a survey asking them if they were interested in car insurance. With the results of this survey and the characteristics of the customers, the company is able to maximize profit for this product through Machine Learning techniques.
 
