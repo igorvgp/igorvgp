@@ -56,7 +56,7 @@ Compared to a random selection of customers to be contacted, the machine learnin
 
 <p style="text-align: justify;">For this problem, an unsupervised Machine Learning model was developed to cluster customers based on their similarities. By doing so, it was possible to identify a subset of high-value customers, who made up just <strong>15.7%</strong> of the total customer base, but contributed but contribute with <strong>51.7%</strong> of the total revenue.</p>
 
-### [Rossmann Sales Preddiction](https://github.com/igorvgp/DS_rossmann_stores)
+### [Rossmann Sales Prediction](https://github.com/igorvgp/DS_rossmann_stores)
 
 <p align="justify">The European pharmacy chain Rossmann plans to allocate a portion of their budget towards renovating their stores. In order to calculate the amount that will be dedicated to this purpose, the company's CFO requested that the data team develop a sales revenue forecasting solution for the next 6 weeks.</p>
     
